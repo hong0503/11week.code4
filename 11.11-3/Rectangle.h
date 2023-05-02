@@ -10,7 +10,7 @@ public:
     double getWidth();
     void setWidth(double);
     double getHeight();
-    void setHeight(double h);
+    void setHeight(double);
     double getArea();
 
 };
